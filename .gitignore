@@ -130,3 +130,6 @@ dmypy.json
 
 #config vscode
 .vscode/
+
+#pdf
+.pdf
